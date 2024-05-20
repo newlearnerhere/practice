@@ -1,0 +1,16 @@
+name:surekha
+surname:velpula
+age:22
+salary:20000
+name:nir
+surname:govind
+age:22
+salary:78347
+name:akil
+surname:dhfjds
+age:34
+salary:43543
+name:mah
+surname:sdjfhkjsd
+age:32
+salary:34324
